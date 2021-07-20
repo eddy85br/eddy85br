@@ -29,8 +29,10 @@
   <img src="./img/postgresql.png" alt="PostgreSQL DB" />
   <img src="./img/mysql_h.png" width="150" alt="MySQL DB" />
 </div>
+
 ---
 [![Top Langs here](https://github-readme-stats.vercel.app/api/top-langs/?username=eddy85br&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Find me on:
 
