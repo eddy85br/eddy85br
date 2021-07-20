@@ -19,9 +19,9 @@ Languages and Tools:
 
 ![Python](./img/python.svg)
 ![Bash](./img/bash.svg)
-![Perl](./img/perl.svg)
+![Perl](./img/perl.png)
 <img src="./img/Rlogo.png" width="80" height="63" alt="R" />
-<img src="./img/vim.png" style="max-width: 5%;" alt="Vim" />
+<img src="./img/vim.png" alt="Vim" />
 ![Docker](./img/docker.png)
 
 <div>
@@ -30,7 +30,7 @@ Languages and Tools:
   <img src="./img/airflow.png" alt="Apache Airflow" />
   <img src="./img/sql.png" alt="SQL language" />
   <img src="./img/postgresql.png" alt="PostgreSQL DB" />
-  <img src="./img/mysql.png" alt="MySQL DB" />
+  <!-- <img src="./img/mysql.png" alt="MySQL DB" /> -->
   <img src="./img/mysql_h.png" alt="MySQL DB" />
 </div>
 
