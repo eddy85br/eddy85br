@@ -1,16 +1,29 @@
-### Hi there 👋
+### Me, myself and I (call me Edu)
 
-<!--
-**eddy85br/eddy85br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: He, him ♂
+- 🔭 I'm currently working on a Django web application.
+- 🌱 I'm currently learning Docker, Django, Kafka and Data Lakes.
+- 👯 I'm looking to collaborate on blockchain tech in the future.
+- 💬 Ask me about Data Engineering
+- 📫 How to reach me: EduLF85#3366 on Discord.
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I love craft beer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddy85br&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Languages and Tools:
+
+![Python](./img/python.svg)
+![Bash](./img/bash.svg)
+![R](https://www.r-project.org/Rlogo.png)
+![Vim](./img/vim.png)
+![Docker](./img/docker.png)
+
+<div>
+<img src="./img/sql.png" alt="SQL language"/>
+<img src="./postgresql.png" alt="PostgreSQL DB">
+</div>
+
+Find me on:
+
+[![Linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/eduardolf/)
