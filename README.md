@@ -19,14 +19,19 @@ Languages and Tools:
 
 ![Python](./img/python.svg)
 ![Bash](./img/bash.svg)
-<img src="./img/Rlogo.png" width="100" height="78" alt="R" />
-![Vim](./img/vim.png)
+![Perl](./img/perl.svg)
+<img src="./img/Rlogo.png" width="80" height="63" alt="R" />
+<img src="./img/vim.png" style="max-width: 5%;" alt="Vim" />
 ![Docker](./img/docker.png)
 
 <div>
-  <img src="./img/Rlogo.png" width="100" height="78" alt="R" />
+  <img src="./img/rabbitmq.png" alt="Rabbit MQ" />
+  <img src="./img/kafka.png" alt="Apache Kafka" />
+  <img src="./img/airflow.png" alt="Apache Airflow" />
   <img src="./img/sql.png" alt="SQL language" />
   <img src="./img/postgresql.png" alt="PostgreSQL DB" />
+  <img src="./img/mysql.png" alt="MySQL DB" />
+  <img src="./img/mysql_h.png" alt="MySQL DB" />
 </div>
 
 
