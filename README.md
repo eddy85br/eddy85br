@@ -7,15 +7,9 @@
 - 👯 I'm looking to collaborate on **blockchain** tech in the future.
 - 💬 Ask me about **Data Engineering**
 - 📫 How to reach me: EduLF85#3366 on Discord.
-
-
+  
 - ⚡ Fun fact: I love **craft beer**.
-
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddy85br&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
 ## Languages and Tools:
 
 ![Python](./img/python.svg)
@@ -35,7 +29,8 @@
   <img src="./img/postgresql.png" alt="PostgreSQL DB" />
   <img src="./img/mysql_h.png" width="150" alt="MySQL DB" />
 </div>
-
+---
+[![Top Langs here](https://github-readme-stats.vercel.app/api/top-langs/?username=eddy85br&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me on:
 
