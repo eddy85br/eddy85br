@@ -20,9 +20,9 @@ Languages and Tools:
 ![Python](./img/python.svg)
 ![Bash](./img/bash.svg)
 ![Perl](./img/perl.png)
-<img src="./img/Rlogo.png" width="80" height="63" alt="R" />
-<img src="./img/vim.png" alt="Vim" />
 ![Docker](./img/docker.png)
+<img src="./img/Rlogo.png" width="80" height="63" alt="R" />
+<img src="./img/vim.png" width="55" height="55" alt="Vim" />
 
 <div>
   <img src="./img/rabbitmq.png" alt="Rabbit MQ" />
