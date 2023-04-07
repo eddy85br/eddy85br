@@ -3,8 +3,7 @@
 - 💬 Call me: **Edu**
 - 😄 Pronouns: **He, him ♂**
 - 🔭 I'm currently working on a **Django** web application.
-- 🌱 I'm currently learning Docker, Django, Kafka and **Data Lakes**.
-- 👯 I'm looking to collaborate on **blockchain** tech in the future.
+- 🌱 I'm currently learning Kubernetes, Kafka and **Data Lake** stuff.
 - 💬 Ask me about **Data Engineering**
 - 📫 How to reach me: EduLF85#3366 on Discord.
   
