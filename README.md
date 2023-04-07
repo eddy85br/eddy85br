@@ -19,7 +19,7 @@
 <img src="./img/vim.png" width="55" height="55" alt="Vim" />
 
 <div>
-  <img src="./img/rabbitmq.png" alt="Rabbit MQ" />
+  <img src="./img/RabbitMQ.jpg" alt="Rabbit MQ" />
   <img src="./img/kafka.png" alt="Apache Kafka" />
   <img src="./img/airflow.png" alt="Apache Airflow" />
 </div>
@@ -36,4 +36,3 @@
 ## Find me on:
 
 [![Linkedin](./img/linkedin.svg)](https://www.linkedin.com/in/eduardolf/)
-
